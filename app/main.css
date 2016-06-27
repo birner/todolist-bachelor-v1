@@ -1,0 +1,17 @@
+body {
+  background-image: url("/app/img/paper.gif");
+  font-family: sans-serif;
+  font: Verdana, Geneva, sans-serif;
+  padding: 0px;
+  margin: 0px;
+}
+
+/*first component*/
+.btn{
+    background-color: cornflowerblue;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    margin: 20px 0px 0px 20px;
+    padding: 5px 10px;
+}
